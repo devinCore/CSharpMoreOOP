@@ -1,0 +1,6 @@
+C:\Users\Charlesl\documents\visual studio 2017\Projects\CSharpMoreOOP\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Charlesl\documents\visual studio 2017\Projects\CSharpMoreOOP\TestApp\bin\Debug\TestApp.exe
+C:\Users\Charlesl\documents\visual studio 2017\Projects\CSharpMoreOOP\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Charlesl\documents\visual studio 2017\Projects\CSharpMoreOOP\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Charlesl\documents\visual studio 2017\Projects\CSharpMoreOOP\TestApp\obj\Debug\TestApp.exe
+C:\Users\Charlesl\documents\visual studio 2017\Projects\CSharpMoreOOP\TestApp\obj\Debug\TestApp.pdb

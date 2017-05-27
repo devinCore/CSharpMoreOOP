@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpMoreOOP", "CSharpMoreOOP\CSharpMoreOOP.csproj", "{7BE976CC-909B-4EDD-BD5E-069805DBEF34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheCheapestPainter", "FindTheCheapestPainter\FindTheCheapestPainter.csproj", "{8B79DAED-51D7-485D-B761-CEA80BE3920A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{42117F48-9507-417F-A2C6-503943268513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE976CC-909B-4EDD-BD5E-069805DBEF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE976CC-909B-4EDD-BD5E-069805DBEF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE976CC-909B-4EDD-BD5E-069805DBEF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE976CC-909B-4EDD-BD5E-069805DBEF34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B79DAED-51D7-485D-B761-CEA80BE3920A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B79DAED-51D7-485D-B761-CEA80BE3920A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B79DAED-51D7-485D-B761-CEA80BE3920A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B79DAED-51D7-485D-B761-CEA80BE3920A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42117F48-9507-417F-A2C6-503943268513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42117F48-9507-417F-A2C6-503943268513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42117F48-9507-417F-A2C6-503943268513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42117F48-9507-417F-A2C6-503943268513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Charlesl\documents\visual studio 2017\Projects\CSharpMoreOOP\CSharpMoreOOP\bin\Debug\CSharpMoreOOP.exe.config
+C:\Users\Charlesl\documents\visual studio 2017\Projects\CSharpMoreOOP\CSharpMoreOOP\bin\Debug\CSharpMoreOOP.exe
+C:\Users\Charlesl\documents\visual studio 2017\Projects\CSharpMoreOOP\CSharpMoreOOP\bin\Debug\CSharpMoreOOP.pdb
+C:\Users\Charlesl\documents\visual studio 2017\Projects\CSharpMoreOOP\CSharpMoreOOP\obj\Debug\CSharpMoreOOP.exe
+C:\Users\Charlesl\documents\visual studio 2017\Projects\CSharpMoreOOP\CSharpMoreOOP\obj\Debug\CSharpMoreOOP.pdb
